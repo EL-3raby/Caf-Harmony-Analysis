@@ -1,21 +1,27 @@
-# Café Harmony - Marketing & Sales Data Analysis
+# Café Harmony - Advanced Marketing & Business Intelligence Analysis
 
 ## 📌 Project Overview
-This project provides a comprehensive data analysis for **Café Harmony**, focusing on marketing performance and sales optimization. It covers the entire data pipeline from cleaning raw data to generating actionable business insights.
+This project delivers an end-to-end data analysis solution for **Café Harmony**. It transforms raw marketing data into strategic business insights using Python, focusing on optimizing ad spend and understanding customer behavior.
 
-## 🛠️ Tools & Technologies
-- **Python** (Pandas, NumPy)
-- **Data Visualization**: Matplotlib, Seaborn
-- **Environment**: Google Colab
+## 🛠️ Tech Stack
+- **Language**: Python (Pandas, NumPy)
+- **Visual Intelligence**: Matplotlib, Seaborn
+- **Environment**: Google Colab / Jupyter Notebook
+- **Deployment**: GitHub Portfolio
 
-## 📊 Key Features
-1. **Data Cleaning**: Handled missing values, duplicates, and corrected logical errors in marketing spend.
-2. **Business Metrics**: Calculated key performance indicators (KPIs) such as:
-   - **ROAS** (Return on Ad Spend)
-   - **CPA** (Cost Per Acquisition)
-   - **AOV** (Average Order Value)
-3. **Visualizations**: Created 5+ interactive charts showing revenue distribution and channel performance.
+## 📊 Advanced Analytics Features
+Beyond basic reporting, this project includes:
+1. **Data Cleaning Pipeline**: Automated handling of duplicates, missing ratings, and financial outliers.
+2. **Core KPI Calculation**: Real-time tracking of **ROAS** (Return on Ad Spend), **CPA** (Cost Per Acquisition), and **AOV** (Average Order Value).
+3. **Behavioral Analysis**: Analyzing sales performance by the day of the week to optimize staffing and inventory.
+4. **Correlation Mapping**: A statistical heatmap identifying relationships between marketing spend and customer satisfaction.
+5. **Predictive Trending**: Linear regression trend lines to forecast future revenue trajectories.
 
-## 📈 Sample Insights
-- Identified the most profitable marketing channel (TikTok vs Instagram).
-- Analyzed customer satisfaction trends through rating distribution.
+## 📈 Key Visualizations
+- **Revenue Distribution**: Pie charts showing the market share of each advertising channel.
+- **Performance Bars**: Comparative analysis of ROAS across TikTok, Instagram, and local marketing.
+- **Satisfaction Trends**: Distribution of customer ratings to monitor service quality.
+
+## 💡 Professional Insights
+- Identified **TikTok_Promo** as the highest ROI channel.
+- Discovered a strong correlation between **Ad_Spend** and **Total_Orders**, providing a roadmap for budget scaling.
